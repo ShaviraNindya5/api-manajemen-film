@@ -1,0 +1,75 @@
+{
+	"info": {
+		"_postman_id": "9e30fd43-958f-4812-b346-10534c2aee73",
+		"name": "belajar_nodejs",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "48009087",
+		"_collection_link": "https://shaviranindya5-1267963.postman.co/workspace/shavira-nindya's-Workspace~f3ff9a22-84e4-451b-8074-d513debfce20/collection/48009087-9e30fd43-958f-4812-b346-10534c2aee73?action=share&source=collection_link&creator=48009087"
+	},
+	"item": [
+		{
+			"name": "status",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "movies",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "daftar semua sutradara",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "detail salah satu sutradara",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "sutradara baru",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "memperbarui data sutradara",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "delete sutradara",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "error not found",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
